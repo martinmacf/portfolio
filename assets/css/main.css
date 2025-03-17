@@ -797,6 +797,15 @@ section,
   font-size: 18px;
 }
 
+.tag-cloud {
+  display: inline-block;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background-color: #0078ff;
+  margin-top: 8px;
+}
+
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
